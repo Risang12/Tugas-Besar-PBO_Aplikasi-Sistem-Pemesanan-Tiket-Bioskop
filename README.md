@@ -34,10 +34,6 @@
   <img src=https://github.com/Risang12/Tugas-Besar-PBO_Aplikasi-Sistem-Pemesanan-Tiket-Bioskop/blob/main/Tampilan%20Program/edit%20film.jpeg />
  </p>
  <p align="center">
- Tampilan Film pada Admin <br>
-  <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20menu%20Booking%20Menu.jpg/>
- </p>
- <p align="center">
  Tampilan Tambah Film pada Admin <br>
   <img src=https://github.com/Risang12/Tugas-Besar-PBO_Aplikasi-Sistem-Pemesanan-Tiket-Bioskop/blob/main/Tampilan%20Program/tambah%20film.jpeg />
  </p>
